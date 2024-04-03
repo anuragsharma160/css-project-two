@@ -7,4 +7,4 @@
     - background attachment
     - background size
 
-2. Honest time to finish this project - 15 days
+2. Honest time to finish this project - 1 week
