@@ -8,3 +8,5 @@
     - background size
 
 2. Honest time to finish this project - 1 week
+
+3. Live link of the project - [CSS-Assignment-2](https://css-project-two-wine.vercel.app/ "Link")
